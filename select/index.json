@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "Space Sonic",
+  "base_artist": "ELLEGARDEN",
+  "createdAt": "2026-04-01T08:40:38.761066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Space Sonic",
+      "artist": "ELLEGARDEN",
+      "has_synced": true,
+      "path": "select/01_Space_Sonic_ELLEGARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Space Sonic",
+      "artist": "ELLEGARDEN",
+      "has_synced": false,
+      "path": "select/02_Space_Sonic_ELLEGARDEN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Space Sonic",
+      "artist": "エルレガーデン ELLEGARDEN",
+      "has_synced": true,
+      "path": "select/03_Space_Sonic_エルレガーデン_ELLEGARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Space Sonic",
+      "artist": "ELLEGARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_Space_Sonic_ELLEGARDEN.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Space Sonic",
+      "artist": "ELLEGARDEN",
+      "has_synced": true,
+      "path": "select/localdb_01_Space_Sonic_ELLEGARDEN.lrc",
+      "repo_name": "m8MxTgTZHgk"
+    }
+  ]
+}
